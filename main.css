@@ -4,10 +4,21 @@
 display:grid;
 grid-template-columns: .5fr 1fr 1fr 1fr 1fr 1fr .5fr;
 grid-template-rows: 1fr .5fr 1fr 1fr 1fr 1fr 1fr;
+font-family: 'Unlock', cursive;font-family: 'Unlock', cursive;
+text-align: center;
+
 }
 #head{
     text-align: center;
     grid-column: 1/8;
     font-family: 'Unlock', cursive;font-family: 'Unlock', cursive;
     font-size: 4em;
+}
+#artist{
+    grid-column: 2/3;
+    font-size: 2em;
+}
+#javascript{
+    grid-column: 3/4;
+    font-size: 2em;
 }
