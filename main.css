@@ -1,0 +1,13 @@
+#box{
+    height: 100vh;
+    width:100%;
+display:grid;
+grid-template-columns: .5fr 1fr 1fr 1fr 1fr 1fr .5fr;
+grid-template-rows: 1fr .5fr 1fr 1fr 1fr 1fr 1fr;
+}
+#head{
+    text-align: center;
+    grid-column: 1/8;
+    font-family: 'Unlock', cursive;font-family: 'Unlock', cursive;
+    font-size: 4em;
+}
