@@ -6,7 +6,9 @@ grid-template-columns: .5fr 1fr 1fr 1fr 1fr 1fr .5fr;
 grid-template-rows: 1fr .5fr 1fr 1fr 1fr 1fr 1fr;
 font-family: 'Unlock', cursive;font-family: 'Unlock', cursive;
 text-align: center;
-
+background:url("/images/jbackground.jpg");
+background-repeat: no-repeat;
+background-size: 100em;
 
 }
 
