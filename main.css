@@ -6,9 +6,9 @@ grid-template-columns: .5fr 1fr 1fr 1fr 1fr 1fr .5fr;
 grid-template-rows: 1fr .5fr 1fr 1fr 1fr 1fr 1fr;
 font-family: 'Unlock', cursive;font-family: 'Unlock', cursive;
 text-align: center;
-background:url("/images/jbackground.jpg");
+background:url("images/blue\ background.jpg");
 background-repeat: no-repeat;
-background-size: 100em;
+background-size: cover;
 
 }
 
@@ -22,7 +22,7 @@ background-size: 100em;
     grid-column: 2/3;
     font-size: 2em;
 }
-#javascript{
+#coding{
     grid-column: 3/4;
     font-size: 2em;
 }
@@ -37,4 +37,93 @@ background-size: 100em;
 #money{
     grid-column: 6/7;
     font-size: 2em;
+}
+.a1{
+    grid-row: 3/4;
+    grid-column: 2/3
+}
+.a2{
+    grid-row: 4/5;
+    grid-column: 2/3;
+}
+.a3{
+    grid-row: 5/6;
+    grid-column: 2/3;
+}
+.a4{
+    grid-row: 6/7;
+    grid-column: 2/3;
+}
+.a5{
+    grid-row: 7/8;
+    grid-column: 2/3;
+}
+.c1{
+    grid-row: 3/4;
+    grid-column: 3/4;
+}
+.c2{
+    grid-row: ;
+    grid-column:
+}
+.c3{
+
+}
+.c4{
+
+}
+.c5{
+
+}
+.g1{
+ grid-row: 3/4;
+ grid-column: 4/5; 
+}
+.g2{
+
+}
+.g3{
+
+}
+.g4{
+
+}
+.g5{
+
+}
+.m1{
+    grid-row: 3/4;
+    grid-column: 5/6;
+}
+.m2{
+
+}
+.m3{
+
+}
+.m4{
+
+}
+.m5{
+
+}
+.mo1{
+    grid-row: 3/4;
+    grid-column: 6/7;
+}
+.mo2{
+    grid-row: 4/5;
+    grid-column: 6/7;
+}
+.mo3{
+    grid-row: 5/6;
+    grid-column: 6/7
+}
+.mo4{
+    grid-row: 6/7;
+    grid-column: 6/7
+}
+.mo5{
+    grid-row: 7/8;
+    grid-column: 6/7
 }
