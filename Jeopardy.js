@@ -43,3 +43,33 @@ $(".g4").on("click", function (){
 $(".g5").on("click", function (){
     swal("write question here");
 })
+$(".m1").on("click", function (){
+    swal("write question here");
+})
+$(".m2").on("click", function (){
+    swal("write question here");
+})
+$(".m3").on("click", function (){
+    swal("write question here");
+})
+$(".m4").on("click", function (){
+    swal("write question here");
+})
+$(".m5").on("click", function (){
+    swal("write question here");
+})
+$(".mo1").on("click", function (){
+    swal("write question here");
+})
+$(".mo2").on("click", function (){
+    swal("write question here");
+})
+$(".mo3").on("click", function (){
+    swal("write question here");
+})
+$(".mo4").on("click", function (){
+    swal("write question here");
+})
+$(".mo5").on("click", function (){
+    swal("write question here");
+})
