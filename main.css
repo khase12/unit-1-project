@@ -79,76 +79,95 @@ border: solid;
 .c2{
     grid-row: 4/5;
     grid-column:3/4;
+    border: solid;
 }
 .c3{
     grid-row: 5/6;
     grid-column: 3/4;
+    border: solid;
 }
 .c4{
     grid-row: 6/7 ;
     grid-column: 3/4;
+    border: solid;
 }
 .c5{
     grid-row: 7/8;
     grid-column: 3/4;
+    border: solid;
 }
 .g1{
  grid-row: 3/4;
  grid-column: 4/5; 
+ border: solid;
 }
 .g2{
     grid-row: 4/5;
     grid-column: 4/5; 
+    border: solid;
 }
 .g3{
     grid-row: 5/6;
     grid-column: 4/5; 
+    border: solid;
 }
 .g4{
     grid-row: 6/7;
     grid-column: 4/5; 
+    border: solid;
 }
 .g5{
     grid-row: 7/8;
     grid-column: 4/5; 
+    border: solid;
 }
 .m1{
     grid-row: 3/4;
     grid-column: 5/6;
+    border: solid;
 }
 .m2{
     grid-row: 4/5;
     grid-column: 5/6;
+    border: solid;
 }
 .m3{
     grid-row: 5/6;
     grid-column: 5/6;
+    border: solid;
 }
 .m4{
     grid-row: 6/7;
     grid-column: 5/6;
+    border: solid;
 }
 .m5{
     grid-row: 7/8;
     grid-column: 5/6;
+    border: solid;
 }
 .mo1{
     grid-row: 3/4;
     grid-column: 6/7;
+    border: solid;
 }
 .mo2{
     grid-row: 4/5;
     grid-column: 6/7;
+    border: solid;
 }
 .mo3{
     grid-row: 5/6;
-    grid-column: 6/7
+    grid-column: 6/7;
+    border: solid;
 }
 .mo4{
     grid-row: 6/7;
-    grid-column: 6/7
+    grid-column: 6/7;
+    border: solid;
 }
 .mo5{
     grid-row: 7/8;
-    grid-column: 6/7
+    grid-column: 6/7;
+    border: solid;
 }
