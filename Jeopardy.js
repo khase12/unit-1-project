@@ -15,7 +15,7 @@ $(".a5").on("click", function (){
     swal("This artist is known for his adlib Its Lit");
 })
 $(".c1").on("click", function (){
-    swal("When there's an error in your code this symbol is missing or misplaced?<");
+    swal("When there's an error in your code this symbol is missing or misplaced?");
 })
 $(".c2").on("click", function (){
     swal("This symbol is used to your ID tag in the CSS?");
@@ -24,10 +24,10 @@ $(".c3").on("click", function (){
     swal("Inside this file can alter thew apperance of the web page?");
 })
 $(".c4").on("click", function (){
-    swal("write question here");
+    swal("");
 })
 $(".c5").on("click", function (){
-    swal("write question here");
+    swal("");
 })
 $(".g1").on("click", function (){
     swal("In this game you can explor and catch animals with powers");
