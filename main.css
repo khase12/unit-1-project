@@ -56,6 +56,9 @@ grid-row-gap: 0;
     border: solid;
     border-radius: 10px;
     font-size: 50px;
+    background:url("images/artist\ pic.jpg");
+
+   
 }
 .a2{
     grid-row: 4/5;
@@ -63,6 +66,7 @@ grid-row-gap: 0;
     border: solid;
     border-radius: 10px;
     font-size: 50px;
+    background:url("images/artist\ pic.jpg");
 
 
 
@@ -73,6 +77,9 @@ grid-row-gap: 0;
     border: solid;
     border-radius: 10px;
     font-size: 50px;
+    background:url("images/artist\ pic.jpg");
+
+
 
 }
 .a4{
@@ -81,6 +88,8 @@ grid-row-gap: 0;
     border: solid;
     border-radius: 10px;
     font-size: 50px;
+    background:url("images/artist\ pic.jpg");
+
 
 
 }
@@ -90,6 +99,9 @@ grid-row-gap: 0;
     border: solid;
     border-radius: 10px;
     font-size: 50px;
+    background:url("images/artist\ pic.jpg");
+
+
 
 
 }
@@ -99,7 +111,7 @@ grid-row-gap: 0;
     border: solid;
     border-radius: 10px;
     font-size: 50px;
-
+    background:url("");
 
 
 }
@@ -148,7 +160,7 @@ grid-row-gap: 0;
  border: solid;
  border-radius: 10px;
  font-size: 50px;
-
+ background:url("images/");
 
 
 
@@ -307,6 +319,103 @@ grid-row-gap: 0;
 
 
 }
-#player1{
-    grid-row
+.a1:hover{
+    cursor: pointer;
+   transform: scale(1.2);
+}
+.a2:hover{
+    cursor: pointer;
+   transform: scale(1.2);
+}
+.a3:hover{
+    cursor: pointer;
+   transform: scale(1.2);
+}
+.a4:hover{
+    cursor: pointer;
+   transform: scale(1.2);
+}
+.a5:hover{
+    cursor: pointer;
+   transform: scale(1.2);
+}
+.c1:hover{
+    cursor: pointer;
+   transform: scale(1.2);
+}
+.c2:hover{
+    cursor: pointer;
+   transform: scale(1.2);
+}
+.c3:hover{
+    cursor: pointer;
+   transform: scale(1.2);
+}
+.c4:hover{
+    cursor: pointer;
+   transform: scale(1.2);
+}
+.c5:hover{
+    cursor: pointer;
+   transform: scale(1.2);
+}
+.g1:hover{
+    cursor: pointer;
+   transform: scale(1.2);
+}
+.g2:hover{
+    cursor: pointer;
+   transform: scale(1.2);
+}
+.g3:hover{
+    cursor: pointer;
+   transform: scale(1.2);
+}
+.g4:hover{
+    cursor: pointer;
+   transform: scale(1.2);
+}
+.g5:hover{
+    cursor: pointer;
+   transform: scale(1.2);
+}
+.m1:hover{
+    cursor: pointer;
+   transform: scale(1.2);
+}
+.m2:hover{
+    cursor: pointer;
+   transform: scale(1.2);
+}
+.m3:hover{
+    cursor: pointer;
+   transform: scale(1.2);
+}
+.m4:hover{
+    cursor: pointer;
+   transform: scale(1.2);
+}
+.m5:hover{
+    cursor: pointer;
+   transform: scale(1.2);
+}
+.mo1:hover{
+    cursor: pointer;
+   transform: scale(1.2);
+}
+.mo2:hover{
+    cursor: pointer;
+   transform: scale(1.2);
+}
+.mo3:hover{
+    cursor: pointer;
+   transform: scale(1.2);
+}
+.mo4:hover{
+    cursor: pointer;
+   transform: scale(1.2);
+}
+.mo5:hover{
+    cursor: pointer;
+   transform: scale(1.2);
 }
