@@ -430,3 +430,6 @@ grid-row-gap: 0;
     cursor: pointer;
    transform: scale(1.2);
 }
+#player2{
+    text-align: right
+}
