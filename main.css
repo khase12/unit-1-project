@@ -431,5 +431,10 @@ grid-row-gap: 0;
    transform: scale(1.2);
 }
 #player2{
-    text-align: right
+  text-align: right;
+  background-color: blue;
+}
+#player1{
+    text-align: left;
+    background-color: red;
 }
