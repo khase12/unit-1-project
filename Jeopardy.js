@@ -1,27 +1,68 @@
-// used sweet alert
+// used sweet alert 
 $(".a1").on("click", function (){
-    swal("This artist has the song name Gummo?");
+    swal({
+        text:"This artist has a song named Gummo?",
+        buttons:{
+        A:
+        B:
+        C:
+        B:
+        }
+});
 })
-$(".a2").on("click", function (){
-    swal("This artist told sway in the morning You Dont Have The Answers?");
-})
+// $(".a2").on("click", function (){
+//     swal("This artist told sway in the morning You Dont Have The Answers?");
+// })
+$()
+$(".a2").on("click", function(){
+        swal({
+        text: "This artist told sway in the morning You Dont Have The Answers?",
+        buttons: {
+            a: "Kanye West",
+            b: "Drake", 
+            c: "Lil Wayne",
+            d: "G Herbo"
+        }}
+        )})
 $(".a3").on("click", function (){
-    swal("This artist droped his album called scorpion");
-})
+    swal({
+        text:"This artist droped his album called scorpion",
+        buttons: {
+            a: "Kanye West",
+            b: "Drake", 
+            c: "Lil Wayne",
+            d: "ffjfjf"
+        }}
+        )})
 $(".a4").on("click", function (){
-    swal("This artist has a hit single called trip");
+    swal({
+    text:"This artist has a hit single called trip",
+    buttons:{
+        A:
+        B:
+        C:
+        B:
+        }
 })
 $(".a5").on("click", function (){
-    swal("This artist is known for his adlib Its Lit");
+    swal({
+        text:"This artist is known for his adlib Its Lit",
+        buttons:{
+            A:
+            B:
+            C:
+            B:
+            }
 })
 $(".c1").on("click", function (){
-    swal("When there's an error in your code this symbol is missing or misplaced?");
+    swal({
+        text:"When there's an error in your code this symbol is missing or misplaced?");
 })
 $(".c2").on("click", function (){
     swal("This symbol is used to your ID tag in the CSS?");
 })
 $(".c3").on("click", function (){
-    swal("Inside this file can alter thew apperance of the web page?");
+    swal("Inside this file can alter the apperance of the web page?");
 })
 $(".c4").on("click", function (){
     swal("");
