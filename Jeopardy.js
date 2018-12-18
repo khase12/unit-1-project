@@ -81,28 +81,28 @@ $(".c3").on("click", function (){
         buttons:{
             A:"Html",
             B:"CSS",
-            C:"javascript",
-            D:"jquery"
+            C:"Javascript",
+            D:"Jquery"
             }
 })
 $(".c4").on("click", function (){
     swal({
-        text:"",
+        text:"In this function the first string start at 0 ",
         buttons:{
-            A:"",
-            B:"",
-            C:"",
-            D:
+            A:"Html",
+            B:"Array",
+            C:"Javascript",
+            D:"Key Frame "
             }
 })
 $(".c5").on("click", function (){
     swal({
-        text:"",
+        text:"When you open a html what's the first you do?",
         buttons:{
-            A:"",
-            B:"",
-            C:"",
-            D:
+            A:"Boiler Plate",
+            B:"link Css",
+            C:"Add Div",
+            D:"Add h1 tag"
             }
 })
 $(".g1").on("click", function (){
@@ -169,40 +169,40 @@ $(".m2").on("click", function (){
     swal({
         text:"This actor played in wolf of wall street and also inception?<",
         buttons:{
-            A:"",
-            B:"",
-            C:"",
-            D:
+            A:"Tom Hardy",
+            B:"Tom criuse",
+            C:"Leonardo DiCaprio",
+            D:"Mike eps"
             }
 })
 $(".m3").on("click", function (){
     swal({
         text:"In this movie criag knocked debo out?",
         buttons:{
-            A:"",
-            B:"",
-            C:"",
-            D:
+            A:"Friday",
+            B:"Next Friday",
+            C:"Friday Ater Next",
+            D:"Striaght Out Of Compton"
             }
 })
 $(".m4").on("click", function (){
     swal({
         text:"In this movie thier native home was wakanda?",
         buttons:{
-            A:"",
-            B:"",
-            C:"",
-            D:
+            A:"Black Panther",
+            B:"Spider Man",
+            C:"Captian America",
+            D:"The Avengers"
             }
 })
 $(".m5").on("click", function (){
     swal({
         text:"In this movie the hero real name is peter parker?",
         buttons:{
-            A:"",
-            B:"",
-            C:"",
-            D:
+            A:"Doctor Strange",
+            B:"Iron Man",
+            C:"Spider Man",
+            D:"Batman"
             }
 })
 $(".mo1").on("click", function (){
@@ -219,7 +219,7 @@ $(".mo2").on("click", function (){
     swal({
         text:"This president is on the 5 dollar bill?",
         buttons:{
-            A:"",
+            A:"Bill Clinton",
             B:"Abraham Lincoln",
             C:"Benjamin Franklin",
             D:"William McKinley."
@@ -230,28 +230,30 @@ $(".mo3").on("click", function (){
         text:"This president is on the 10 dollar bill?",
         buttons:{
             A:"William McKinley.",
-            B:"",
+            B:"Barack Obama",
             C:"Alexander Hamilton",
-            D:""
+            D:"Donald Trump"
             }
 })
 $(".mo4").on("click", function (){
     swal({
         text:"This president is on the 20 dollar bill?",
         buttons:{
-            A:"",
+            A:"Ronald Reagan",
             B:"Andrew Jackson",
-            C:"",
-            D:""
+            C:"Gerald Ford",
+            D:"George H. W. Bush"
             }
 })
 $(".mo5").on("click", function (){
     swal({
         text:"This president is on the 50 dollar bill?",
         buttons:{
-            A:"",
-            B:"",
-            C:"",
+            A:"John F. Kennedy",
+            B:"Richard Nixon",
+            C:"Jimmy Carter",
             D:"Ulysses S. Grant"
             }
     
+        }) 
+    })
