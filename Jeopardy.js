@@ -8,14 +8,9 @@ $(".a1").on("click", function (){
         C:"Tekashi 69",
         D: "Chief Keef"
         }
-}).then( (value) => { 
-    swal(`The returned value is: ${value}`); 
-   
 })
 
-
 })
-
 
 
 $()
@@ -28,10 +23,8 @@ $(".a2").on("click", function(){
             C: "Drake",
             D: "Rick Ross"
         }
-    }).then( (value) => { 
-        swal(`The returned value is: ${value}`); 
-        
     })
+
 })
 $(".a3").on("click", function (){
     swal({
@@ -42,9 +35,8 @@ $(".a3").on("click", function (){
             C: "Kanye West",
             D: "Gucci Mane"
         }
-    }).then( (value) => { 
-        swal(`The returned value is: ${value}`); 
-        })
+    })
+    
     })
 $(".a4").on("click", function (){
     swal({
@@ -55,11 +47,10 @@ $(".a4").on("click", function (){
         C:"Nicki Manaj",
         D:"Remy Ma"
         }
-    }).then( (value) => { 
-        swal(`The returned value is: ${value}`); 
+    }) 
 
 })
-})
+
 $(".a5").on("click", function (){
     swal({
         text:"This artist is known for his adlib Its Lit",
@@ -69,9 +60,8 @@ $(".a5").on("click", function (){
             C:"Travis Scott",
             D:"Trippie Redd"
             }
-        }).then( (value) => { 
-            swal(`The returned value is: ${value}`); 
-})
+        })
+        
 })
 $(".c1").on("click", function (){
     swal({
@@ -82,9 +72,8 @@ $(".c1").on("click", function (){
             C:"()",
             D:";"
             }
-        }).then( (value) => { 
-            swal(`The returned value is: ${value}`); 
-})
+        })
+
 })
 
 $(".c2").on("click", function (){
@@ -96,9 +85,8 @@ $(".c2").on("click", function (){
             C:"#",
             D:","
             }
-        }).then( (value) => { 
-            swal(`The returned value is: ${value}`); 
-})
+        })
+
 })
 
 $(".c3").on("click", function (){
@@ -111,9 +99,8 @@ $(".c3").on("click", function (){
             C:"Javascript",
             D:"Jquery"
             }
-        }).then( (value) => { 
-            swal(`The returned value is: ${value}`); 
-})
+        })
+ 
 })
 
 $(".c4").on("click", function (){
@@ -125,9 +112,8 @@ $(".c4").on("click", function (){
             C:"Javascript",
             D:"Key Frame "
             }
-        }).then( (value) => { 
-            swal(`The returned value is: ${value}`); 
-})
+        })
+
 })
 
 $(".c5").on("click", function (){
@@ -139,9 +125,8 @@ $(".c5").on("click", function (){
             C:"Add Div",
             D:"Add h1 tag"
             }
-        }).then( (value) => { 
-            swal(`The returned value is: ${value}`); 
-})
+        })
+
 })
 
 $(".g1").on("click", function (){
@@ -153,9 +138,8 @@ $(".g1").on("click", function (){
             C:"Super Mario",
             D:"Tomb Raider"
             }
-        }).then( (value) => { 
-            swal(`The returned value is: ${value}`); 
-})
+        })
+
 })
 
 $(".g2").on("click", function (){
@@ -167,9 +151,8 @@ $(".g2").on("click", function (){
             C:"Mortal Kombat",
             D:"Fight Night"
             }
-        }).then( (value) => { 
-            swal(`The returned value is: ${value}`); 
-})
+        })
+
 })
 
 $(".g3").on("click", function (){
@@ -181,9 +164,8 @@ $(".g3").on("click", function (){
             C:"Call Of Duty",
             D:"Batman"
             }
-        }).then( (value) => { 
-            swal(`The returned value is: ${value}`); 
-})
+        })
+ 
 })
 $(".g4").on("click", function (){
     swal({
@@ -194,9 +176,8 @@ $(".g4").on("click", function (){
             C:"Dead Or Alive",
             D:"Dying Light"
             }
-        }).then( (value) => { 
-            swal(`The returned value is: ${value}`); 
-})
+        })
+
 })
 
 $(".g5").on("click", function (){
@@ -208,23 +189,21 @@ $(".g5").on("click", function (){
             C:"For Honored",
             D:"Super Mario"
             }
-        }).then( (value) => { 
-            swal(`The returned value is: ${value}`); 
-})
+        })
+
 })
 
 $(".m1").on("click", function (){
     swal({
-        text:"n this movie kelvin hart was hired to be a best man?",
+        text:"In this movie kelvin hart was hired to be a best man?",
         buttons:{
             A:"Seriously Funny",
             B:"Ride Along",
             C:"Night School",
-            D:""
+            D:"Wedding Ringers"
             }
-        }).then( (value) => { 
-            swal(`The returned value is: ${value}`); 
-})
+        })
+ 
 })
 
 $(".m2").on("click", function (){
@@ -236,9 +215,8 @@ $(".m2").on("click", function (){
             C:"Leonardo DiCaprio",
             D:"Mike eps"
             }
-        }).then( (value) => { 
-            swal(`The returned value is: ${value}`); 
-})
+        })
+
 })
 
 $(".m3").on("click", function (){
@@ -250,10 +228,8 @@ $(".m3").on("click", function (){
             C:"Friday Ater Next",
             D:"Striaght Out Of Compton"
             }
-        }).then( (value) => { 
-            swal(`The returned value is: ${value}`); 
-})
-})
+        })
+ 
 })
 
 $(".m4").on("click", function (){
@@ -265,9 +241,10 @@ $(".m4").on("click", function (){
             C:"Captian America",
             D:"The Avengers"
             }
-        }).then( (value) => { 
-            swal(`The returned value is: ${value}`); 
+        })
+
 })
+
 $(".m5").on("click", function (){
     swal({
         text:"In this movie the hero real name is peter parker?",
@@ -277,9 +254,10 @@ $(".m5").on("click", function (){
             C:"Spider Man",
             D:"Batman"
             }
-        }).then( (value) => { 
-            swal(`The returned value is: ${value}`); 
+        })
+ 
 })
+
 $(".mo1").on("click", function (){
     swal({
         text:"This president is on the 1 dollar bill?",
@@ -289,9 +267,10 @@ $(".mo1").on("click", function (){
             C:"Andrew Jackson",
             D:"George Washington"
             }
-        }).then( (value) => { 
-            swal(`The returned value is: ${value}`); 
+        })
+ 
 })
+
 $(".mo2").on("click", function (){
     swal({
         text:"This president is on the 5 dollar bill?",
@@ -301,9 +280,10 @@ $(".mo2").on("click", function (){
             C:"Benjamin Franklin",
             D:"William McKinley."
             }
-        }).then( (value) => { 
-            swal(`The returned value is: ${value}`); 
+        })
+ 
 })
+
 $(".mo3").on("click", function (){
     swal({
         text:"This president is on the 10 dollar bill?",
@@ -313,9 +293,10 @@ $(".mo3").on("click", function (){
             C:"Alexander Hamilton",
             D:"Donald Trump"
             }
-        }).then( (value) => { 
-            swal(`The returned value is: ${value}`); 
+        })
+  
 })
+
 $(".mo4").on("click", function (){
     swal({
         text:"This president is on the 20 dollar bill?",
@@ -325,9 +306,10 @@ $(".mo4").on("click", function (){
             C:"Gerald Ford",
             D:"George H. W. Bush"
             }
-        }).then( (value) => { 
-            swal(`The returned value is: ${value}`); 
+        })
+    
 })
+
 $(".mo5").on("click", function (){
     swal({
         text:"This president is on the 50 dollar bill?",
@@ -338,6 +320,7 @@ $(".mo5").on("click", function (){
             D:"Ulysses S. Grant"
             }
     
-        }) .then( (value) => { 
-            swal(`The returned value is: ${value}`); 
-    })
+        }) 
+       
+})
+
