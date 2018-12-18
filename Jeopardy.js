@@ -9,7 +9,10 @@ $(".a1").on("click", function (){
         D: "Chief Keef"
         }
 })
-
+.then( (value) => { 
+    swal(`The returned value is: ${value}`); 
+    
+})
 })
 
 
@@ -24,7 +27,9 @@ $(".a2").on("click", function(){
             D: "Rick Ross"
         }
     })
-
+    .then( (value) => { 
+        swal(`The returned value is: ${value}`); 
+})
 })
 $(".a3").on("click", function (){
     swal({
@@ -36,7 +41,9 @@ $(".a3").on("click", function (){
             D: "Gucci Mane"
         }
     })
-    
+    .then( (value) => { 
+        swal(`The returned value is: ${value}`); 
+})
     })
 $(".a4").on("click", function (){
     swal({
@@ -48,7 +55,9 @@ $(".a4").on("click", function (){
         D:"Remy Ma"
         }
     }) 
-
+    .then( (value) => { 
+        swal(`The returned value is: ${value}`); 
+})
 })
 
 $(".a5").on("click", function (){
@@ -61,7 +70,9 @@ $(".a5").on("click", function (){
             D:"Trippie Redd"
             }
         })
-        
+        .then( (value) => { 
+            swal(`The returned value is: ${value}`); 
+    })
 })
 $(".c1").on("click", function (){
     swal({
@@ -73,7 +84,9 @@ $(".c1").on("click", function (){
             D:";"
             }
         })
-
+        .then( (value) => { 
+            swal(`The returned value is: ${value}`); 
+    })
 })
 
 $(".c2").on("click", function (){
@@ -86,7 +99,9 @@ $(".c2").on("click", function (){
             D:","
             }
         })
-
+        .then( (value) => { 
+            swal(`The returned value is: ${value}`); 
+    })
 })
 
 $(".c3").on("click", function (){
@@ -100,7 +115,9 @@ $(".c3").on("click", function (){
             D:"Jquery"
             }
         })
- 
+        .then( (value) => { 
+            swal(`The returned value is: ${value}`); 
+    })
 })
 
 $(".c4").on("click", function (){
@@ -113,7 +130,9 @@ $(".c4").on("click", function (){
             D:"Key Frame "
             }
         })
-
+        .then( (value) => { 
+            swal(`The returned value is: ${value}`); 
+    })
 })
 
 $(".c5").on("click", function (){
@@ -126,7 +145,9 @@ $(".c5").on("click", function (){
             D:"Add h1 tag"
             }
         })
-
+        .then( (value) => { 
+            swal(`The returned value is: ${value}`); 
+    })
 })
 
 $(".g1").on("click", function (){
@@ -139,7 +160,9 @@ $(".g1").on("click", function (){
             D:"Tomb Raider"
             }
         })
-
+        .then( (value) => { 
+            swal(`The returned value is: ${value}`); 
+    })
 })
 
 $(".g2").on("click", function (){
@@ -152,7 +175,9 @@ $(".g2").on("click", function (){
             D:"Fight Night"
             }
         })
-
+        .then( (value) => { 
+            swal(`The returned value is: ${value}`); 
+    })
 })
 
 $(".g3").on("click", function (){
@@ -165,7 +190,9 @@ $(".g3").on("click", function (){
             D:"Batman"
             }
         })
- 
+        .then( (value) => { 
+            swal(`The returned value is: ${value}`); 
+    })
 })
 $(".g4").on("click", function (){
     swal({
@@ -177,7 +204,9 @@ $(".g4").on("click", function (){
             D:"Dying Light"
             }
         })
-
+        .then( (value) => { 
+            swal(`The returned value is: ${value}`); 
+    })
 })
 
 $(".g5").on("click", function (){
@@ -190,7 +219,9 @@ $(".g5").on("click", function (){
             D:"Super Mario"
             }
         })
-
+        .then( (value) => { 
+            swal(`The returned value is: ${value}`); 
+    })
 })
 
 $(".m1").on("click", function (){
@@ -203,7 +234,9 @@ $(".m1").on("click", function (){
             D:"Wedding Ringers"
             }
         })
- 
+        .then( (value) => { 
+            swal(`The returned value is: ${value}`); 
+    })
 })
 
 $(".m2").on("click", function (){
@@ -216,7 +249,9 @@ $(".m2").on("click", function (){
             D:"Mike eps"
             }
         })
-
+        .then( (value) => { 
+            swal(`The returned value is: ${value}`); 
+    })
 })
 
 $(".m3").on("click", function (){
@@ -229,6 +264,9 @@ $(".m3").on("click", function (){
             D:"Striaght Out Of Compton"
             }
         })
+        .then( (value) => { 
+            swal(`The returned value is: ${value}`); 
+    })
  
 })
 
@@ -242,7 +280,9 @@ $(".m4").on("click", function (){
             D:"The Avengers"
             }
         })
-
+        .then( (value) => { 
+            swal(`The returned value is: ${value}`); 
+    })
 })
 
 $(".m5").on("click", function (){
@@ -255,7 +295,9 @@ $(".m5").on("click", function (){
             D:"Batman"
             }
         })
- 
+        .then( (value) => { 
+            swal(`The returned value is: ${value}`); 
+    })
 })
 
 $(".mo1").on("click", function (){
@@ -268,7 +310,9 @@ $(".mo1").on("click", function (){
             D:"George Washington"
             }
         })
- 
+        .then( (value) => { 
+            swal(`The returned value is: ${value}`); 
+    })
 })
 
 $(".mo2").on("click", function (){
@@ -281,7 +325,9 @@ $(".mo2").on("click", function (){
             D:"William McKinley."
             }
         })
- 
+        .then( (value) => { 
+            swal(`The returned value is: ${value}`); 
+    })
 })
 
 $(".mo3").on("click", function (){
@@ -294,7 +340,9 @@ $(".mo3").on("click", function (){
             D:"Donald Trump"
             }
         })
-  
+        .then( (value) => { 
+            swal(`The returned value is: ${value}`); 
+    })
 })
 
 $(".mo4").on("click", function (){
@@ -307,7 +355,9 @@ $(".mo4").on("click", function (){
             D:"George H. W. Bush"
             }
         })
-    
+        .then( (value) => { 
+            swal(`The returned value is: ${value}`); 
+    })
 })
 
 $(".mo5").on("click", function (){
@@ -321,6 +371,8 @@ $(".mo5").on("click", function (){
             }
     
         }) 
-       
+        .then( (value) => { 
+            swal(`The returned value is: ${value}`); 
+    })
 })
 
