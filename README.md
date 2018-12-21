@@ -11,6 +11,6 @@ here a link to my trello
 https://trello.com/b/Moufgclo/wdi-project1
 
 link to game
-http://127.0.0.1:5500/index.html
+https://festive-yalow-84a276.netlify.com/
 
 wire frame located in images
